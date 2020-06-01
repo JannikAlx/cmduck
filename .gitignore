@@ -50,6 +50,7 @@
 *.bin
 
 output/
+docassets/
 
 modules.order
 Module.symvers
