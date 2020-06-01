@@ -49,6 +49,8 @@
 *.iso
 *.bin
 
+output/
+
 modules.order
 Module.symvers
 Mkfile.old
