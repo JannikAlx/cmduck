@@ -14,6 +14,8 @@ The heaviest os of all time. Nachprogrammiert von Jannik Alexander als Teil des 
 
 ## Entwicklungsumgebung
 
+Das eigentlich wichtigste ist das aufsetzen einer Entwicklungsumgebung. Deshalb wird im folgenden beschrieben wie meine aufgebaut ist.
+
 ### Host OS
 
 Für die Entwicklung wird eine Ubuntu Distribution in der Virtualbox von Oracle verwendet.
