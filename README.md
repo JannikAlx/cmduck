@@ -4,11 +4,11 @@ The heaviest os of all time. Nachprogrammiert von Jannik Alexander als Teil des 
 
 # Table of Contents
 
-1. [Entwicklungsumgebung](#entwicklungsumgebung)
-   1. [Host OS](#Host OS)
-   2. [Building the Cross Compiler](#Building the Cross Compiler)
-      1. [Binutils](#binutils)
-      2. [GCC](#gcc)
+- [Entwicklungsumgebung](#entwicklungsumgebung)
+  * [Host OS](#host-os)
+  * [Building the Cross Compiler](#building-the-cross-compiler)
+    + [Binutils](#binutils)
+    + [GCC](#gcc)
 
 
 
