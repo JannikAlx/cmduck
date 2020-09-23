@@ -1,6 +1,6 @@
 # cmetalduck
 
-The heaviest os of all time. Entwickelt von Jannik Alexander
+The heaviest os of all time. Nachprogrammiert von Jannik Alexander als Teil des Betriebssystempraktikums der TH-Köln
 
 # Table of Contents
 
