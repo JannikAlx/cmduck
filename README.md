@@ -2,6 +2,8 @@
 
 The heaviest os of all time. Nachprogrammiert von Jannik Alexander als Teil des Betriebssystempraktikums der TH-Köln
 
+Short disclaimer: it's not actually an OS, did not have the motivation to continue this in my free time. Now it's just a text buffer
+
 # Table of Contents
 
 - [Entwicklungsumgebung](#entwicklungsumgebung)
